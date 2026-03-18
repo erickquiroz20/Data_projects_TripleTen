@@ -23,7 +23,7 @@ Each project focuses on solving real-world business problems using data.
 - Tracked KPIs such as revenue, orders, and returns
 - Cleaned and transformed datasets
 
-👉 [View Project](#)
+👉 [View Project](./sales-kpi-dashboard)
 
 ---
 
