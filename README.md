@@ -14,7 +14,7 @@ Each project focuses on solving real-world business problems using data.
 - Built dashboards in Tableau
 - Delivered insights on revenue distribution and category performance
 
-👉 [View Project](#)
+👉 [View Project](./restaurant-performance-analysis)
 
 ---
 
