@@ -32,7 +32,7 @@ Each project focuses on solving real-world business problems using data.
 - Performed joins, aggregations, and filtering
 - Generated datasets for reporting
 
-👉 [View Project](#)
+👉 [View Project](./sql-data-analysis)
 
 ---
 
